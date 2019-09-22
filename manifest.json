@@ -2,8 +2,8 @@
   "author": "Dave Buitenhuis",
   "name": "CMGT SmartLink",
   "permissions": ["activeTab", "declarativeContent", "storage"],
-  "version": "1.0",
-  "description": "A Chrome extension which fetches data, it displays the data in tiles as URLs. This way students can get shared links and be able to access study information easier and quicker.",
+  "version": "1.1.1",
+  "description": "",
   "background": {
     "scripts": ["background.js"],
     "persistent": false
